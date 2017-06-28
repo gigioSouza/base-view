@@ -1,5 +1,5 @@
 # base-view
-A easy way to transfer data between different Objects in Java with Annotations, take a look:
+A easy way to transfer data between different Objects in Java, take a look:
 
 Models
 ```
